@@ -131,8 +131,8 @@ Streamlit
 ## Author
 
 Ataman Semerci  
-Electrical & Electronics Engineering  
-Izmir Democracy University
+Electrical & Electronics Engineer
+
 ## Contact
 
 For academic or research-related inquiries, please contact me via GitHub Issues.
